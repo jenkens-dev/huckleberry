@@ -10,3 +10,6 @@ body {
 }
 
 /* Add styles here! */
+strong {
+  color: hsl(160deg, 100%, 30%)
+}
