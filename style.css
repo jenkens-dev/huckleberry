@@ -11,11 +11,16 @@ body {
 }
 
 /* Add styles here! */
-strong {
-  color: hsl(160deg, 100%, 30%)
+
+header {
+  border-bottom: 5px solid hsl(0deg, 0%, 40%);
 }
 
 .max-width-wrapper {
   max-width: 50%;
   margin: 0px auto;
+}
+
+strong {
+  color: hsl(160deg, 100%, 30%)
 }
