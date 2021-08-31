@@ -35,6 +35,7 @@ main {
   background-color: hsl(0deg, 0%, 100%);
   border-bottom: 5px solid hsl(0deg, 0%, 40%);
   padding: 0px 32px;
+  margin-top: 48px;
 }
 
 .indented-heading {
