@@ -49,9 +49,11 @@ main {
   border-bottom: 5px solid hsl(0deg, 0%, 40%);
   padding: 0px 32px;
   margin-top: 48px;
+  padding-top: 8px;
 }
 
 .indented-heading {
+  margin-top: 1px;
   background-color: hsl(45deg, 100%, 50%);
   border-bottom: 5px solid hsl(45deg, 100%, 40%);
   max-width: fit-content;
