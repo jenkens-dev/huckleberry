@@ -13,3 +13,8 @@ body {
 strong {
   color: hsl(160deg, 100%, 30%)
 }
+
+.max-width-wrapper {
+  max-width: 50%;
+  margin: 0px auto;
+}
