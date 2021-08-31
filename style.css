@@ -15,6 +15,7 @@ header {
 }
 
 .max-width-wrapper {
+  /* width doesn't seem exactly right */
   max-width: 800px;
   margin: 0px auto;
 }
