@@ -21,6 +21,19 @@ header {
   margin: 0px auto;
 }
 
+.intro-chunk {
+  width: 50%;
+  padding-top: 64px;
+}
+
+.title {
+  margin-bottom: 48px;
+}
+
+header p {
+  font-size: 1.25rem;
+}
+
 strong {
   color: hsl(160deg, 100%, 30%)
 }
