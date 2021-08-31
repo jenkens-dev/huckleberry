@@ -24,3 +24,7 @@ header {
 strong {
   color: hsl(160deg, 100%, 30%)
 }
+
+.card {
+  border-bottom: 5px solid hsl(0deg, 0%, 40%);
+}
