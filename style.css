@@ -30,5 +30,6 @@ main {
 }
 
 .card {
+  background-color: hsl(0deg, 0%, 100%);
   border-bottom: 5px solid hsl(0deg, 0%, 40%);
 }
